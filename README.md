@@ -6,6 +6,8 @@ biblioteca extra) e persistência em `localStorage`. Sem backend.
 
 Projeto pessoal pra praticar Vue 3 (Composition API, `<script setup>`) e Pinia.
 
+**Ao vivo**: [kanban-vue-seven.vercel.app](https://kanban-vue-seven.vercel.app)
+
 ## Stack
 
 Vue 3 + TypeScript + Vite + Pinia. Lint com ESLint + oxlint, format com Prettier.
